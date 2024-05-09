@@ -1,0 +1,11 @@
+git status
+git status
+git status
+
+
+dir
+clear
+
+
+
+
